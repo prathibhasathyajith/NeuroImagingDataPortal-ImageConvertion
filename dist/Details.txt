@@ -1,0 +1,10 @@
+#Uname
+R.E.P.S.W
+#userid
+RG0001
+/* path of selection images(open the file chooser window path) */
+#Path1
+path2
+/* path of save directory(open the file chooser window path) */
+#Path2
+path2
