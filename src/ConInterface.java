@@ -413,7 +413,7 @@ public class ConInterface extends javax.swing.JFrame {
                 File folder = new File(SelectImage);
                 files = folder.listFiles();
 
-                //System.out.println("ab path "+ SelectImage);
+                System.out.println("ab path "+ SelectImage);
                 //files = chooser.getSelectedFiles();
                 files2 = chooser.getSelectedFile();
                 tfSelectFilePath.setText(files2.getAbsolutePath());
